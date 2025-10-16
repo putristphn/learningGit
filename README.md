@@ -1,18 +1,22 @@
 # 🧪 QA Engineer Bootcamp – Digital Skola
 This repository highlights my learning progress from **Sessions 2, 3, and 4** of the QA Engineer Bootcamp at Digital Skola.
 
-## Overview
+### 🧩 Overview
 Each session focuses on a different aspect of software testing — from documenting test plans and bug reports to writing simple JavaScript scripts — blending hands-on practice with core QA fundamentals.
 
-## 📘 Contents
+---
+
+### 📘 Contents
 **Task 2:** Test documentation — including **test plan, test case, and bug report** for the [SauceDemo](https://www.saucedemo.com/) website.  
 **Task 3:** Practiced **JavaScript fundamentals** by generating a right-triangle pattern using a `for` loop.  
 **Task 4:** Explored **JavaScript Advanced** concepts by building a simple calculator function for basic arithmetic operations.
-## 🧭 How to Open the Project Folders
 
+---
+
+### 🧭 How to Open the Project Folders
 Depending on the file type, here’s how you can explore each session’s work:
 
-### 💻 For JavaScript Files
+#### 💻 For JavaScript Files
 You can open these files with your favorite code editor, such as:
 - Visual Studio Code  
 - Sublime Text  
