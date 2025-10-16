@@ -45,6 +45,10 @@ You can simply double-click the file, or right-click → Open With… → choose
 ```
 learningGit/
 │
+├── images/
+│   ├── sesi3_output.png
+│   └── sesi4_calculator.png
+│
 ├── sesi2_putristphn/
 │   ├── Putristphn - Test Case and Bug Report - SauceDemo.xlsx
 │   ├── Putristphn - Test Plan - SauceDemo.docx
