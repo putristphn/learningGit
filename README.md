@@ -31,11 +31,11 @@ code folder-name
 
 📄 For Word, Excel, or Online Files
 
-Use the appropriate app depending on where you're opening it from:
+- Use the appropriate app depending on where you're opening it from:
 
-Microsoft Word (.docx) → open using Microsoft Word or Google Docs
+- Microsoft Word (.docx) → open using Microsoft Word or Google Docs
 
-Microsoft Excel (.xlsx) → open using Microsoft Excel or Google Sheets
+- Microsoft Excel (.xlsx) → open using Microsoft Excel or Google Sheets
 
 You can simply double-click the file, or right-click → Open With… → choose the correct app or upload it to your Google Drive to open it online.
 
@@ -61,11 +61,11 @@ learningGit/
 
 📝 Notes
 
-Ensure you have VS Code, Word, or Excel installed before opening the files — or open them directly in Google Docs/Sheets.
+- Ensure you have VS Code, Word, or Excel installed before opening the files — or open them directly in Google Docs/Sheets.
 
-Keep the folder structure intact when submitting assignments.
+- Keep the folder structure intact when submitting assignments.
 
-Each session reflects my progress as a QA Engineer — learning to plan, test, document, and write code to support automation in real-world projects.
+- Each session reflects my progress as a QA Engineer — learning to plan, test, document, and write code to support automation in real-world projects.
 
 ### 📸 Preview & Output Examples
 
