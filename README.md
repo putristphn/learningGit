@@ -7,8 +7,8 @@ Each session focuses on a different aspect of software testing — from document
 ---
 
 ### 📘 Contents
-**Task 2:** Test documentation — including **test plan, test case, and bug report** for the [SauceDemo](https://www.saucedemo.com/) website.  
-**Task 3:** Practiced **JavaScript fundamentals** by generating a right-triangle pattern using a `for` loop.  
+**Task 2:** Test documentation — including **Test Plan, Test Case, and Bug Report** for the [SauceDemo](https://www.saucedemo.com/) website.  
+**Task 3:** Practiced **JavaScript Fundamentals** by generating a right-triangle pattern using a `for` loop.  
 **Task 4:** Explored **JavaScript Advanced** concepts by building a simple calculator function for basic arithmetic operations.
 
 ---
@@ -63,7 +63,7 @@ learningGit/
 └── README.md
 ```
 
-📝 Notes
+📝 Notes:
 
 - Ensure you have VS Code, Word, or Excel installed before opening the files — or open them directly in Google Docs/Sheets.
 
