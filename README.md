@@ -29,8 +29,11 @@ code folder-name
 💡 Make sure VS Code is installed and added to your system PATH.
 
 📄 For Word, Excel, or Online Files
+
 Use the appropriate app depending on where you’re opening it from:
+
 Microsoft Word (.docx) → open using Microsoft Word or Google Docs
+
 Microsoft Excel (.xlsx) → open using Microsoft Excel or Google Sheets
 
 You can simply double-click the file, or right-click → Open With… → choose the correct app or upload it to your Google Drive to open it online.
@@ -43,7 +46,6 @@ learningGit/
 ├── sesi2_putristphn/
 │   ├── Putri - Test Case and Bug Report - SauceDemo.xlsx
 │   ├── Putri - Test Plan - SauceDemo.docx
-│ 
 │
 ├── sesi3_putristphn/
 │   └── sesi3_putri.js
@@ -55,8 +57,11 @@ learningGit/
 └── README.md
 
 📝 Notes
+
 Ensure you have VS Code, Word, or Excel installed before opening the files — or open them directly in Google Docs/Sheets.
+
 Keep the folder structure intact when submitting assignments.
+
 Each session reflects my progress as a QA Engineer — learning to plan, test, document, and write code to support automation in real-world projects.
 
 📸 Preview & Output Examples
@@ -66,6 +71,18 @@ Here are some examples of what you’ll find inside this repository 👇
 🧩 Session 3 – Triangle Pattern Output
 
 Example console output from sesi3_putri.js:
+*
+**
+***
+****
+*****
 
 🧮 Session 4 – Simple Calculator Function
+
+Example usage:
+Masukkan angka pertama: 8  
+Masukkan angka kedua: 2  
+Masukkan operator (+, -, *, /): *  
+Hasil: 16
+
 
