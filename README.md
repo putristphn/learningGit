@@ -19,8 +19,8 @@ You can open these files with your favorite code editor, such as:
 - Atom  
 
 To open a folder directly in **VS Code**, use:
-```bash
 code folder-name
+
 💡 Make sure VS Code is installed and added to your system PATH.
 
 📄 For Word, Excel, or Online Files
