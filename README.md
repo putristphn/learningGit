@@ -41,6 +41,8 @@ You can simply double-click the file, or right-click → Open With… → choose
 
 💡 Opening via Google Docs/Sheets is handy if you don't have Microsoft Office installed — just drag the file into Google Drive, and it'll open automatically.
 
+---
+
 ### 📂 Folder Structure
 ```
 learningGit/
@@ -70,6 +72,8 @@ learningGit/
 - Keep the folder structure intact when submitting assignments.
 
 - Each session reflects my progress as a QA Engineer — learning to plan, test, document, and write code to support automation in real-world projects.
+
+---
 
 ### 📸 Preview & Output Examples
 Here are some examples of what you’ll find inside this repository 👇
