@@ -1,0 +1,21 @@
+{
+  "name": "learninggit",
+  "version": "1.0.0",
+  "description": "This repository highlights my learning progress from **Sessions 2, 3, and 4** of the QA Engineer Bootcamp at Digital Skola.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putristphn/learningGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/putristphn/learningGit/issues"
+  },
+  "homepage": "https://github.com/putristphn/learningGit#readme"
+}
