@@ -2,7 +2,7 @@
 This repository highlights my learning progress from **Sessions 2, 3, and 4** of the QA Engineer Bootcamp at Digital Skola.
 
 ### 🧩 Overview
-Each session focuses on a different aspect of software testing — from documenting test plans and bug reports to writing simple JavaScript scripts — blending hands-on practice with core QA fundamentals.
+Each session focuses on a different aspect of software testing — from documenting test plans, test case, and bug reports to writing simple JavaScript scripts — blending hands-on practice with core QA fundamentals.
 
 ---
 
