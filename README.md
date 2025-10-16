@@ -46,8 +46,8 @@ You can simply double-click the file, or right-click → Open With… → choose
 learningGit/
 │
 ├── sesi2_putristphn/
-│   ├── Putri - Test Case and Bug Report - SauceDemo.xlsx
-│   ├── Putri - Test Plan - SauceDemo.docx
+│   ├── Putristphn - Test Case and Bug Report - SauceDemo.xlsx
+│   ├── Putristphn - Test Plan - SauceDemo.docx
 │
 ├── sesi3_putristphn/
 │   └── sesi3_putri.js
