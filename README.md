@@ -29,7 +29,7 @@ code folder-name
 
 💡 Make sure VS Code is installed and added to your system PATH.
 
-📄 For Word, Excel, or Online Files
+#### 📄 For Word, Excel, or Online Files
 
 - Use the appropriate app depending on where you're opening it from:
 
