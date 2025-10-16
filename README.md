@@ -1,5 +1,4 @@
-# learningGit
-🧪 QA Engineer Bootcamp – Digital Skola
+# 🧪 QA Engineer Bootcamp – Digital Skola
 This repository highlights my learning progress from **Sessions 2, 3, and 4** of the QA Engineer Bootcamp at Digital Skola.
 
 ## Overview
