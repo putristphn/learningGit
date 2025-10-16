@@ -72,27 +72,17 @@ learningGit/
 - Each session reflects my progress as a QA Engineer — learning to plan, test, document, and write code to support automation in real-world projects.
 
 ### 📸 Preview & Output Examples
-
 Here are some examples of what you’ll find inside this repository 👇
 
-🧩 Session 3 – Triangle Pattern Output
+#### 🧩 Session 3 – Triangle Pattern Output
+Example console output from `sesi3_putri.js`:
 
-Example console output from sesi3_putri.js:
-```
-*
-**
-***
-****
-*****
-```
+![Triangle Output](images/sesi3_output.png)
 
-🧮 Session 4 – Simple Calculator Function
-Example usage:
-```
-Masukkan angka pertama: 8  
-Masukkan angka kedua: 2  
-Masukkan operator (+, -, *, /): *  
-Hasil: 16
-```
+#### 🧮 Session 4 – Simple Calculator Function
+Example usage and result from `menu.js` and `rumus.js`:
+
+![Calculator Output](images/sesi4_calculator.png)
+
 
 
