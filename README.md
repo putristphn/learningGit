@@ -83,8 +83,8 @@ Example console output from sesi3_putri.js:
 ```
 
 🧮 Session 4 – Simple Calculator Function
-```
 Example usage:
+```
 Masukkan angka pertama: 8  
 Masukkan angka kedua: 2  
 Masukkan operator (+, -, *, /): *  
