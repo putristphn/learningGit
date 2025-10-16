@@ -31,7 +31,7 @@ code folder-name
 
 #### 📄 For Word, Excel, or Online Files
 
-- Use the appropriate app depending on where you're opening it from:
+Use the appropriate app depending on where you're opening it from:
 
 - Microsoft Word (.docx) → open using Microsoft Word or Google Docs
 
