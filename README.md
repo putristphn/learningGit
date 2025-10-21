@@ -88,5 +88,14 @@ Example usage and result from `menu.js` and `rumus.js`:
 
 ![Calculator Output](images/sesi4_calculator.png)
 
+---
+
+### 👩🏻‍💻 Author
+
+**Putri Stephanie Lesilolo**  
+*Quality Assurance Engineer*  
+📍 Jakarta, Indonesia  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/putrilesilolo/) | [GitHub](https://github.com/putristphn)
 
 
