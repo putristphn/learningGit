@@ -1,5 +1,5 @@
 # 🧪 QA Engineer Bootcamp – Digital Skola
-This repository showcases my learning progress from **Sessions 2 – 5** of the QA Engineer Bootcamp at Digital Skola.  
+This repository showcases my learning progress from **Sessions 2 – 5** of the **QA Engineer Bootcamp** at **Digital Skola**.  
 Each session focuses on a different aspect of software testing — blending theory with hands-on exercises.
 
 ---
