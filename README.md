@@ -1,15 +1,20 @@
 # 🧪 QA Engineer Bootcamp – Digital Skola
-This repository highlights my learning progress from **Sessions 2, 3, and 4** of the QA Engineer Bootcamp at Digital Skola.
+This repository showcases my learning progress from **Sessions 2 – 5** of the QA Engineer Bootcamp at Digital Skola.  
+Each session focuses on a different aspect of software testing — blending theory with hands-on exercises.
+
+---
 
 ### 🧩 Overview
-Each session focuses on a different aspect of software testing — from documenting test plans, test case, and bug reports to writing simple JavaScript scripts — blending hands-on practice with core QA fundamentals.
+This project includes fundamentals of **manual QA documentation** and **JavaScript programming**, continuing with **Git practice** to manage version control.  
+The goal is to strengthen QA foundations through structured exercises that simulate real-world QA workflows.
 
 ---
 
 ### 📘 Contents
 **Task 2:** Test documentation — including **Test Plan, Test Case, and Bug Report** for the [SauceDemo](https://www.saucedemo.com/) website.  
-**Task 3:** Practiced **JavaScript Fundamentals** by generating a right-triangle pattern using a `for` loop.  
-**Task 4:** Explored **JavaScript Advanced** concepts by building a simple calculator function for basic arithmetic operations.
+**Task 3:** Practiced **JavaScript Fundamentals** by generating simple console outputs such as right-triangle patterns using `for` loops.
+**Task 4:** Explored **JavaScript Advanced** concepts by creating a simple calculator function for basic arithmetic operations.
+**Task 5:** Applied **Git version control** — initializing repositories, committing code, branching, merging, and pushing updates to GitHub.
 
 ---
 
@@ -87,6 +92,14 @@ Example console output from `sesi3_putri.js`:
 Example usage and result from `menu.js` and `rumus.js`:
 
 ![Calculator Output](images/sesi4_calculator.png)
+
+---
+
+## 💡 Key Learnings
+
+- Understanding the importance of clear **QA documentation**  
+- Writing and executing **JavaScript scripts** for simple logic and validation  
+- Applying **Git workflow** for collaboration and repository management  
 
 ---
 
