@@ -12,8 +12,11 @@ The goal is to strengthen QA foundations through structured exercises that simul
 
 ### 📘 Contents
 **Task 2:** Test documentation — including **Test Plan, Test Case, and Bug Report** for the [SauceDemo](https://www.saucedemo.com/) website.  
+
 **Task 3:** Practiced **JavaScript Fundamentals** by generating simple console outputs such as right-triangle patterns using `for` loops.
+
 **Task 4:** Explored **JavaScript Advanced** concepts by creating a simple calculator function for basic arithmetic operations.
+
 **Task 5:** Applied **Git version control** — initializing repositories, committing code, branching, merging, and pushing updates to GitHub.
 
 ---
